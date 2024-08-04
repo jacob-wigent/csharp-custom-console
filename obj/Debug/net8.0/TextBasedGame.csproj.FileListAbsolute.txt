@@ -1,0 +1,14 @@
+C:\Users\jaket\Desktop\TextBasedGame\bin\Debug\net8.0\TextBasedGame.exe
+C:\Users\jaket\Desktop\TextBasedGame\bin\Debug\net8.0\TextBasedGame.deps.json
+C:\Users\jaket\Desktop\TextBasedGame\bin\Debug\net8.0\TextBasedGame.runtimeconfig.json
+C:\Users\jaket\Desktop\TextBasedGame\bin\Debug\net8.0\TextBasedGame.dll
+C:\Users\jaket\Desktop\TextBasedGame\bin\Debug\net8.0\TextBasedGame.pdb
+C:\Users\jaket\Desktop\TextBasedGame\obj\Debug\net8.0\TextBasedGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaket\Desktop\TextBasedGame\obj\Debug\net8.0\TextBasedGame.AssemblyInfoInputs.cache
+C:\Users\jaket\Desktop\TextBasedGame\obj\Debug\net8.0\TextBasedGame.AssemblyInfo.cs
+C:\Users\jaket\Desktop\TextBasedGame\obj\Debug\net8.0\TextBasedGame.csproj.CoreCompileInputs.cache
+C:\Users\jaket\Desktop\TextBasedGame\obj\Debug\net8.0\TextBasedGame.dll
+C:\Users\jaket\Desktop\TextBasedGame\obj\Debug\net8.0\refint\TextBasedGame.dll
+C:\Users\jaket\Desktop\TextBasedGame\obj\Debug\net8.0\TextBasedGame.pdb
+C:\Users\jaket\Desktop\TextBasedGame\obj\Debug\net8.0\TextBasedGame.genruntimeconfig.cache
+C:\Users\jaket\Desktop\TextBasedGame\obj\Debug\net8.0\ref\TextBasedGame.dll
