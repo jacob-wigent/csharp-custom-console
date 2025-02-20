@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaket\\Desktop\\TextBasedGame\\TextBasedGame.csproj": {}
+    "C:\\Users\\Jacob\\Documents\\Code\\csharp-console-engine\\TextBasedGame.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaket\\Desktop\\TextBasedGame\\TextBasedGame.csproj": {
+    "C:\\Users\\Jacob\\Documents\\Code\\csharp-console-engine\\TextBasedGame.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaket\\Desktop\\TextBasedGame\\TextBasedGame.csproj",
+        "projectUniqueName": "C:\\Users\\Jacob\\Documents\\Code\\csharp-console-engine\\TextBasedGame.csproj",
         "projectName": "TextBasedGame",
-        "projectPath": "C:\\Users\\jaket\\Desktop\\TextBasedGame\\TextBasedGame.csproj",
-        "packagesPath": "C:\\Users\\jaket\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaket\\Desktop\\TextBasedGame\\obj\\",
+        "projectPath": "C:\\Users\\Jacob\\Documents\\Code\\csharp-console-engine\\TextBasedGame.csproj",
+        "packagesPath": "C:\\Users\\Jacob\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jacob\\Documents\\Code\\csharp-console-engine\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jaket\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jacob\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
